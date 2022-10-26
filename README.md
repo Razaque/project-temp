@@ -1,22 +1,22 @@
 <!-- markdownlint-disable MD032 MD033-->
-# 🔥 **Josee9988's GitHub Project Template**
+# 🔥 **Razaque's GitHub Project Template**
 
 <p align="center">
-  <a href="https://github.com/Josee9988/project-template/generate">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@Josee9988/project-template's">
+  <a href="https://github.com/Razaque/project-temp/generate">
+    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@Razaque/project-temp's">
   </a>
   <br>
-  <a href="https://github.com/Josee9988/project-template/issues">
-    <img src="https://img.shields.io/github/issues/Josee9988/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Josee9988/project-template's issues"/>
+  <a href="https://github.com/Razaque/project-temp/issues">
+    <img src="https://img.shields.io/github/issues/Razaque/project-temp?color=0088ff&style=for-the-badge&logo=github" alt="@Razaque/project-temp's issues"/>
   </a>
-  <a href="https://github.com/josee9988/project-template/pulls">
-    <img src="https://img.shields.io/github/issues-pr/Josee9988/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Josee9988/project-template's pull requests"/>
+  <a href="https://github.com/Razaque/project-temp/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Razaque/project-temp?color=0088ff&style=for-the-badge&logo=github" alt="@Razaque/project-temp's pull requests"/>
   </a>
-  <a href="https://github.com/Josee9988/project-template/generate">
-    <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github-sponsors&style=for-the-badge&color=green" alt="@Josee9988/project-template link to create a new repository from the template">
+  <a href="https://github.com/Razaque/project-temp/generate">
+    <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github-sponsors&style=for-the-badge&color=green" alt="@Razaque/project-temp link to create a new repository from the template">
   </a>
-  <a href="https://github.com/Josee9988/project-template/actions/workflows/shelltest.yml">
-    <img src="https://github.com/Josee9988/project-template/actions/workflows/shelltest.yml/badge.svg" alt="@Josee9988/project-template's tests">
+  <a href="https://github.com/Razaque/project-temp/actions/workflows/shelltest.yml">
+    <img src="https://github.com/Razaque/project-temp/actions/workflows/shelltest.yml/badge.svg" alt="@Razaque/project-temp's tests">
   </a>
 </p>
 
@@ -38,10 +38,10 @@
 
 ## ⚡ **Installation**
 
-1. To create a new repository from this template, **[generate your new repository from this template](https://github.com/Josee9988/project-template/generate)**;
+1. To create a new repository from this template, **[generate your new repository from this template](https://github.com/Razaque/project-temp/generate)**;
 for more information or guidance, follow the [GitHub guide](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-2. Install the [🤖 used GitHub bots](https://github.com/Josee9988/project-template#-used-github-bots) (recommended)
-3. Clone your new repository **[generated from this template](https://github.com/Josee9988/project-template/generate)** and `cd` into it.
+2. Install the [🤖 used GitHub bots](https://github.com/Razaque/project-temp#-used-github-bots) (recommended)
+3. Clone your new repository **[generated from this template](https://github.com/Razaque/project-temp/generate)** and `cd` into it.
 4. **Execute** the `SETUP_TEMPLATE.sh` shell script to **customize** the files with your data.
 
     ```bash
